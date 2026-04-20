@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sqlmodel
+playwright
+apscheduler
+python-multipart
+emails
+jinja2
+python-dotenv
