@@ -49,7 +49,8 @@ npm run dev
 - **Start Frontend:** `cd frontend && npm run dev`
 - **Use Picker:** `cd picker && python picker.py` to visually select CSS elements.
 
-##Built with ai support.
+<small>Built with AI assistance< small>
+
 ---
 
 ## 🇹🇷 Türkçe
@@ -96,4 +97,4 @@ npm run dev
 ---
 <p align="center">TRACKMANT — Track the data, catch the opportunity.</p>
 
-## ai desteği ile yapılmıştır.
+<small>ai desteği ile yapılmıştır.<small>
