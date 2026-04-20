@@ -94,7 +94,7 @@ npm run dev
 - **Frontend:** `cd frontend && npm run dev`
 - **Picker:** `cd picker && python picker.py`
 
+<small>Ai desteği ile yapılmıştır.<small>
 ---
 <p align="center">TRACKMANT — Track the data, catch the opportunity.</p>
 
-<small>ai desteği ile yapılmıştır.<small>
