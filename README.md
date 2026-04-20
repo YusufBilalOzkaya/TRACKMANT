@@ -49,7 +49,7 @@ npm run dev
 - **Start Frontend:** `cd frontend && npm run dev`
 - **Use Picker:** `cd picker && python picker.py` to visually select CSS elements.
 
-<small>Built with AI assistance< small>
+<small>Built with AI assistance<small>
 
 ---
 
