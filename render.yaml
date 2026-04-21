@@ -21,5 +21,5 @@ services:
         scope: run
         sync: false
       - key: CHECK_INTERVAL_MINUTES
-        value: 2
+        value: 5
     healthCheckPath: /docs
