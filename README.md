@@ -20,6 +20,11 @@ TRACKMANT is a professional tracking tool that automatically monitors data (pric
 
 ### 🛠️ Setup Guide
 
+**Requirements:**
+- Python 3.9 or higher
+- Node.js 18+
+- pip package manager
+
 #### 1️⃣ Backend Setup
 ```bash
 cd backend
@@ -66,6 +71,11 @@ TRACKMANT; herhangi bir web sayfasındaki veriyi (fiyat, stok, haber, sayısal d
 - **⏰ Zamanlanmış Görevler:** Belirlediğiniz aralıklarla otomatik kontrol.
 
 ### 🛠️ Kurulum Rehberi
+
+**Gereksinimler:**
+- Python 3.9 veya üstü
+- Node.js 18+
+- pip paket yöneticisi
 
 #### 1️⃣ Backend Kurulumu
 ```bash
