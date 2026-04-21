@@ -23,7 +23,3 @@ services:
       - key: CHECK_INTERVAL_MINUTES
         value: 2
     healthCheckPath: /docs
-    headers:
-      - http:
-        - name: X-Frame-Options
-          value: SAMEORIGIN
